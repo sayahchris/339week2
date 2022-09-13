@@ -1,0 +1,33 @@
+body{
+    font-family: Courier, "Times New Roman", Impact;
+    line-height: 2;
+    color: darkblue;
+    background-color: lightgray;
+    font-size: 12px;
+}
+
+img{
+    border: dashed 5px green;
+}
+
+li{
+    border: solid 25px black;
+}
+
+h1{
+    font-size: 12px;
+    color: black;
+}
+
+nav li{
+    border-radius: 15px;
+    border-width: 2px;
+    background-color: aqua;
+    display: inline;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 25px;
+}
+
+
